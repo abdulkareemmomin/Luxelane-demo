@@ -4,7 +4,7 @@ import Navbar from './Components/Navbar';
 import Home from './Components/Home';
 import Footer from './Components/Footer';
 import ProductCards from './Components/ProductCards';
-import FlipkartSearch from './Search/FlipKartSearch';
+import FlipkartSearch from '../src/Search/FlipKartSearch';
 import About from './Components/ABout';
 import Contact from './Components/Contact';
 import ProductDetail from './Shop/ProductDetail';
